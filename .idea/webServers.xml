@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f3a8a2a-ae5e-4532-bb40-9afbdc7f8ee6" name="ensemble">
+        <fileTransfer rootFolder="/mnt/sde/tiange/ensemble" accessType="SFTP" host="211.87.232.152" port="22" sshConfigId="f91a97f3-b131-4d89-9176-3e10b72b5aa5" sshConfig="tiange@211.87.232.152:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
